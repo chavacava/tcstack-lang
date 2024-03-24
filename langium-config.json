@@ -1,0 +1,15 @@
+{
+    "projectName": "TcStack",
+    "languages": [{
+        "id": "tc-stack",
+        "grammar": "src/language/tc-stack.langium",
+        "fileExtensions": [".stack"],
+        "textMate": {
+            "out": "syntaxes/tc-stack.tmLanguage.json"
+        },
+        "monarch": {
+            "out": "syntaxes/tc-stack.monarch.ts"
+        }
+    }],
+    "out": "src/language/generated"
+}

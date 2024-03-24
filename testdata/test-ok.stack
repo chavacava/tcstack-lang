@@ -1,0 +1,4 @@
+send TOTO
+sleep 10 seconds
+send TOTO( a = "qsdsd", b="qdqsdsqd" )
+sleep 1 milliseconds

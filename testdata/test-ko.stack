@@ -1,0 +1,6 @@
+send TOTO
+sleep 10 seconds
+send TITI
+send TOTO 
+sleep 23 minutes
+
